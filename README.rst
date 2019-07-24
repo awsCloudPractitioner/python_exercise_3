@@ -1,7 +1,7 @@
 - Set current directory to the project directory using cd command on windows
 
-- To run ClassifyTriangle Class , execute this command on cmd prompt
-    - python ListContainsAll.py
+- To run listcontainsall class , execute this command on cmd prompt
+    - python listcontainsall.py
 
 - To run unittests , execute this command on cmd prompt
     - python -m unittest discover <test_directory>

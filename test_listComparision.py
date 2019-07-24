@@ -1,5 +1,5 @@
 import unittest
-from ListContainsAll import ListComparision
+from listcontainsall import ListComparision
 
 
 class TestListComparision(unittest.TestCase):
